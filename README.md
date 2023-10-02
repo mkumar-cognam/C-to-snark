@@ -4,3 +4,4 @@
 2. place the generated .wasm at location zkWasm/wasm/program.wasm .
 3. use test_cli.sh provided here to run zkWasm VM
 
+This is a test branch. 
